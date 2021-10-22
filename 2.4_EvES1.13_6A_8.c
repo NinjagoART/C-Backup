@@ -1,14 +1,14 @@
 /*Nombre del Programa: Examen parcial 
-Elaboró: GCJA       No Lista:  8
-Fecha: 6 de oct 2021	No. Versión: 1
-Descripción: Calcula el volumen y areas de un cubo */
+ElaborÃ³: GCJA       No Lista:  8
+Fecha: 6 de oct 2021	No. VersiÃ³n: 1
+DescripciÃ³n: Calcula el volumen y areas de un cubo */
 
 #include <stdio.h>  //Cabecera del programa
-#include <stdlib.h> //Sección de Archivos de inclusión
-#include <cmath>  //Declaración de archivos de cabecera (librerías)
+#include <stdlib.h> //SecciÃ³n de Archivos de inclusiÃ³n
+#include <cmath>  //DeclaraciÃ³n de archivos de cabecera (librerÃ­as)
 #include <wchar.h>	//Libreria de soporte de caracteres extensos
        
-int main(){ //Función principal
+int main(){ //FunciÃ³n principal
 // Inicio de bloque
 	float x1,x2,x3,y1,y2,y3,A;	//declarando las variables
       printf("\n Ingresa los valores del primer punto x,y \n");
