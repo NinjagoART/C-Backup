@@ -1,5 +1,5 @@
 # C-Backup
-In this repo, i upload all C execrsie from my "C Course"
+In this repo, i upload all C exercise from my "C Course"
 
 *Temary:
 
